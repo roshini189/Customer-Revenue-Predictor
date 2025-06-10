@@ -17,6 +17,6 @@
 
 ## 🛠️ Tech Stack:
 
-**Language**: R
-**Libraries**: caret, glmnet, mice, earth, pls, tidyverse
-**Approach**: Cross-validation, polynomial interactions, model tuning
+- **Language**: R
+- **Libraries**: caret, glmnet, mice, earth, pls, tidyverse
+- **Approach**: Cross-validation, polynomial interactions, model tuning
